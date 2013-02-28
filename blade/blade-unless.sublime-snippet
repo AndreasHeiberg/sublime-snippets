@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+unless( ${1:something} )
+    {{ ${2:do this} }}
+@endunless
+]]></content>
+	<tabTrigger>unless</tabTrigger>
+	<description>Blade @unless ...</description>
+	<scope>source.php.laravel-blade</scope>
+</snippet>
+

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+extends( '${1:template}' )
+]]></content>
+	<tabTrigger>extends</tabTrigger>
+	<description>Blade @extends</description>
+	<scope>source.php.laravel-blade</scope>
+</snippet>

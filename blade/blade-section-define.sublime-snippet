@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+section( '${1:content}' )
+
+    ${2:// code}
+    
+@stop
+]]></content>
+	<tabTrigger>section</tabTrigger>
+	<description>Blade define @section</description>
+	<scope>source.php.laravel-blade</scope>
+</snippet>
+

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+if( ${1:condition} )
+    ${2:execute}
+@endif
+]]></content>
+	<tabTrigger>if</tabTrigger>
+	<description>Blade @if ...</description>
+	<scope>source.php.laravel-blade</scope>
+</snippet>
+

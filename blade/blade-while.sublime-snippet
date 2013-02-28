@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+while( ${1:\$something} )
+    ${2:// code}
+@endwhile
+]]></content>
+	<tabTrigger>while ...</tabTrigger>
+	<description>Blade @while</description>
+	<scope>source.php.laravel-blade</scope>
+</snippet>
+

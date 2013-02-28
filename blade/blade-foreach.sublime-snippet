@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+foreach( ${1:\$vars} as ${2:\$var} )
+
+    {{ ${3:\$var} }}
+    
+@endforeach
+]]></content>
+	<tabTrigger>foreach</tabTrigger>
+	<description>Blade @foreach</description>
+	<scope>source.php.laravel-blade</scope>
+</snippet>
+

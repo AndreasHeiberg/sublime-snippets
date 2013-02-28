@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+section( '${1:section}' )
+    ${2:content}
+@show
+]]></content>
+	<tabTrigger>sectionshow</tabTrigger>
+	<description>Blade show @section</description>
+	<scope>source.php.laravel-blade</scope>
+</snippet>
+
